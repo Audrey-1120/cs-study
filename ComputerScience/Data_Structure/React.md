@@ -64,6 +64,11 @@ const { color, price } = picture;
 
 (원래 했던 방식은 concole.log(picture.color))
 
+
+
+
+
+
 +이 분의 글이 많은 참고가 되었음!
 
 [https://velog.io/@winterlood/React가-처음인-당신-Ep1.-탄생편](https://velog.io/@winterlood/React%EA%B0%80-%EC%B2%98%EC%9D%8C%EC%9D%B8-%EB%8B%B9%EC%8B%A0-Ep1.-%ED%83%84%EC%83%9D%ED%8E%B8)
