@@ -219,4 +219,4 @@ int fix(int A[], int len){
 
  
 
-출처 | https://gyoogle.dev/
+참고 | https://gyoogle.dev/
