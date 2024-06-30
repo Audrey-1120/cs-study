@@ -1,3 +1,5 @@
+# 3-way handshake & 4-way handshake
+
 ## 0) 공부하기 전에..
 
 - 3 way handshake와  4 way handshake는 TCP에서 논리적인 접속을 성립하기 위한 과정이다.
