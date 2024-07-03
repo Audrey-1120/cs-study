@@ -131,3 +131,6 @@ public Object deQueue(Object o) {
 데이터 출력은 head로부터 꺼낸다.(FIFO니까!) head의 데이터를 미리 저장해두고, 기존의 head를 그 다음 노드의 head로 설정한다. 저장해둔 데이터를 return 해서 값을 빼온다. 
 
 이처럼 삽입은 tail, 제거는 head로 하면서 삽입/삭제를 스택처럼 O(1)에 가능하도록 구현이 가능하다.
+
+
+Q. 스택은 oo선출이고 큐는 xx선출이다. oo와 xx에 들어갈 알맞은 단어는?
