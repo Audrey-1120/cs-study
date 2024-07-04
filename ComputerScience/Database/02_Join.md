@@ -127,3 +127,10 @@
       FROM EX_TABLE A, EX_TABLE B
     ```
 
+<br>
+
+#### 문제
+기준 테이블과 join 테이블의 중복된 값을 보여주는 JOIN은 어떤 JOIN인가?
+    
+    1) OUTER JOIN   2) INNER JOIN   3) CROSS JOIN   4) SELF JOIN
+
