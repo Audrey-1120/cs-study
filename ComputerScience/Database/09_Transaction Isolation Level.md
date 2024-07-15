@@ -94,5 +94,3 @@ level을 높게 조정할수록 발생하는 비용이 증가한다.
 
 ##### [참고]
 [트랜잭션의 격리 수준(Isolation Level)에 대해 쉽고 완벽하게 이해하기](<https://mangkyu.tistory.com/299>)
-
-
