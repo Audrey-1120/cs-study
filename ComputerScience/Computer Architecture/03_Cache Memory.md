@@ -43,7 +43,7 @@ A[0], A[1]과 같은 연속 접근 시, 참조된 데이터 근처에 있는 데
 
 - 캐시에 데이터를 저장할 때는 이러한 참조 지역성(공간)을 최대한 활용하기 위해 해당 데이터뿐만 아니라, 옆 주소의 데이터도 같이 가져와 미래에 쓰일 것을 대비한다.
 
-- CPU가 요청한 데이터가 캐시에 있으면 'Cache Hit', 없어서 DRAM(동적 랜덤 액세스 메모리)에서 가져오면 'Cache Miss'
+- CPU가 요청한 데이터가 캐시에 있으면 'Cache Hit', 없어서 [DRAM(동적 랜덤 액세스 메모리)](<https://www.lenovo.com/kr/ko/glossary/what-is-dram/?orgRef=https%253A%252F%252Fwww.google.com%252F>)에서 가져오면 'Cache Miss'
 
 <br>
 
